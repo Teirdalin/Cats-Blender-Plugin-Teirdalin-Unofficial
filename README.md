@@ -7,3 +7,6 @@ Personally, I do not use CATS for the sake of VRChat, but rather because it's a 
 Anyways, version 5.1.2 is updated. Go have fun.
 
 If you wanna toss money at me, there's a support button in the app. For any real issues, please refer to the "Need Help?" button under Credits.
+
+V2 Update:
+Created a Rigify to Mixamo conversion script.  Protects extra bones and bindings. Would appreciate some testing done on this.
