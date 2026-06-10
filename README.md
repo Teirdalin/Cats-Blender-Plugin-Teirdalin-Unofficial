@@ -13,3 +13,5 @@ If you really want to support the project just spread the word about this branch
 V2 Update:
 Created a Rigify to Mixamo conversion script.  Protects extra bones and bindings. Would appreciate some testing done on this.
 
+
+Todo:  Gotta fix the updater.
