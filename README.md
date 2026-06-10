@@ -8,7 +8,7 @@ Anyways, version 5.1.2 is updated. Go have fun.
 
 If you wanna toss money at me, there's a support button in the app. For any real issues, please refer to the "Need Help?" button under Credits.
 
-If you really want to support the project just spread the word about this branch.
+If you really want to support the project just spread the word about this branch, maybe make a discord and toss me an invite, @Teirdalin
 
 V2 Update:
 Created a Rigify to Mixamo conversion script.  Protects extra bones and bindings. Would appreciate some testing done on this.
